@@ -114,9 +114,6 @@ All major features have been tested and verified:
 - Rashid Amer
 - Sebastian John
 
-**University of Houston-Clear Lake**  
-Houston, TX 77058
-
 ---
 
 **Version:** 1.0  
