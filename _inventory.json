@@ -1,0 +1,108 @@
+[
+  {
+    "foodItems": {
+      "name": {
+        "Pizza": {
+          "buyPrice": "$4.00",
+          "salePrice": "$7.00",
+          "amtHeld": 40,
+          "amtSold": 73
+        },
+        "Burgers": {
+          "buyPrice": "$2.50",
+          "salePrice": "$5.00",
+          "amtHeld": 30,
+          "amtSold": 58
+        },
+        "Desserts": {
+          "buyPrice": "$1.20",
+          "salePrice": "$3.00",
+          "amtHeld": 25,
+          "amtSold": 41
+        },
+        "Hot Dogs": {
+          "buyPrice": "$1.00",
+          "salePrice": "$2.50",
+          "amtHeld": 33,
+          "amtSold": 66
+        },
+        "Soup": {
+          "buyPrice": "$3.00",
+          "salePrice": "$6.00",
+          "amtHeld": 28,
+          "amtSold": 47
+        },
+        "Snacks": {
+          "buyPrice": "$1.50",
+          "salePrice": "$4.00",
+          "amtHeld": 20,
+          "amtSold": 35
+        },
+        "Tacos": {
+          "buyPrice": "$1.20",
+          "salePrice": "$3.00",
+          "amtHeld": 27,
+          "amtSold": 54
+        }
+      }
+    },
+    "schoolItems": {
+      "name": {
+        "Eraser": {
+          "buyPrice": "$0.75",
+          "salePrice": "$1.00",
+          "amtHeld": 15,
+          "amtSold": 22
+        },
+        "Notebook": {
+          "buyPrice": "$1.00",
+          "salePrice": "$2.50",
+          "amtHeld": 10,
+          "amtSold": 18
+        },
+        "Pencil": {
+          "buyPrice": "$0.30",
+          "salePrice": "$0.75",
+          "amtHeld": 40,
+          "amtSold": 57
+        },
+        "Binder": {
+          "buyPrice": "$0.90",
+          "salePrice": "$1.50",
+          "amtHeld": 20,
+          "amtSold": 31
+        },
+        "Highlighter": {
+          "buyPrice": "$0.85",
+          "salePrice": "$1.60",
+          "amtHeld": 25,
+          "amtSold": 40
+        },
+        "Calculator": {
+          "buyPrice": "$2.00",
+          "salePrice": "$3.50",
+          "amtHeld": 12,
+          "amtSold": 19
+        },
+        "Pen": {
+          "buyPrice": "$0.60",
+          "salePrice": "$1.20",
+          "amtHeld": 17,
+          "amtSold": 25
+        },
+        "Stickeynotes": {
+          "buyPrice": "$1.50",
+          "salePrice": "$3.00",
+          "amtHeld": 8,
+          "amtSold": 12
+        },
+        "Ruler": {
+          "buyPrice": "$0.40",
+          "salePrice": "$1.00",
+          "amtHeld": 14,
+          "amtSold": 21
+        }
+      } 
+    }
+  }
+]
