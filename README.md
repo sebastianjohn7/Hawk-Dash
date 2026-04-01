@@ -101,12 +101,12 @@ router.push("/order/itemCatalog/orderDetail")
 ## Testing
 
 All major features have been tested and verified:
-- ✓ Category button navigation
-- ✓ Item list rendering
-- ✓ Item selection and detail page display
-- ✓ Routing accuracy
-- ✓ Cart functionality
-- ✓ Order completion
+✓ Category button navigation
+✓ Item list rendering
+✓ Item selection and detail page display
+✓ Routing accuracy
+✓ Cart functionality
+✓ Order completion
 
 ## Authors
 
